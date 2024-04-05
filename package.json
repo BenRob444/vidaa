@@ -1,10 +1,10 @@
 {
-  "name": "noir",
+  "name": "vidaa",
   "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "noirlegacy": "Bck.js"
+    "vidaa": "Bck.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
