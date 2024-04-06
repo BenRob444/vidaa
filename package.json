@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "type": "module",
-  "author": "",
+  "author": "Ben Rob",
   "license": "MIT",
   "dependencies": {
     "@independentsoft/msg": "^1.0.2",
