@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "type": "module",
-  "author": "Ben Rob",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@independentsoft/msg": "^1.0.2",
